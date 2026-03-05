@@ -278,7 +278,7 @@ Company description, mission statement, team avatars, and values section.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/openboil.git
+git clone https://github.com/aymenhmaidiwastaken/openboil.git
 cd openboil
 
 # Install dependencies
