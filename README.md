@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="public/logo.svg" alt="OpenBoil" width="64" height="64" />
-
 # OpenBoil
 
 ### The Ultimate Open-Source SaaS Boilerplate
