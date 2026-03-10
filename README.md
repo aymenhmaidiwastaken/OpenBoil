@@ -1,6 +1,6 @@
 <div align="center">
 
-# OpenBoil
+# OpenBoilerplate
 
 ### The Ultimate Open-Source SaaS Boilerplate
 
