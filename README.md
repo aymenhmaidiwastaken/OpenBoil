@@ -278,8 +278,8 @@ Company description, mission statement, team avatars, and values section.
 
 ```bash
 # Clone the repository
-git clone https://github.com/aymenhmaidiwastaken/openboil.git
-cd openboil
+git clone https://github.com/aymenhmaidiwastaken/OpenBoilerplate.git
+cd OpenBoilerplate
 
 # Install dependencies
 npm install
